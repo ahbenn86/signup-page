@@ -1,0 +1,31 @@
+
+  .container {
+    margin-top: 150px;
+
+  }
+
+  div {
+    font-family: 'Robot', sans-serif;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+  }
+  
+
+  input {
+      padding: 7px;
+      border: 1px solid gray;
+      border-radius: 6px;
+      margin: 5px;
+  }
+
+  .mobileNum {
+      width: 73%;
+  }
+
+  .email {
+      width: 73%
+  }
+
+  
